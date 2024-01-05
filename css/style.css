@@ -1,0 +1,18 @@
+
+
+label{
+    display: block;
+}
+
+.mfour-table{
+    
+    
+}
+.mfour-table table{
+    border: 2px solid greenyellow;
+    border-collapse: collapse;
+}
+.mfour-table table td,th{
+    border:2px solid rgb(30, 34, 24) ;
+    padding: 10px 5px;
+}
